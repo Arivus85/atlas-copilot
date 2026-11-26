@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.python-version
+
+git config user.name "Arivu01" && git config user.email "sriarivu27@gmail.com"
